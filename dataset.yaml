@@ -1,0 +1,17 @@
+# Train/val/test sets as 
+## 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+
+
+#path: ../datasets/coco128  # dataset root dir
+train: /content/face_data/train/images  # train images (relative to 'path') 128 images
+val: /content/face_data/val/images # val images (relative to 'path') 128 images
+# test:  # test images (optional)
+
+# Classes
+nc: 17  # number of classes
+names: ["Zebra Crossing","Deer Crossing Signs","Yeild Sign","Watch out for car","Uturn Sign","Traffic Signal Ahead Signs","Stop sign","speed Limit (80 kmh)","Speed Limit (70 kmh)",
+"Speed Limit (60 kmh)","Speed Limit (50 kmh)","Speed Limit (5 kmh)","Speed Limit (40 kmh)","Speed Limit (30 kmh)","Speed Limit (15 kmh)","Speed Limit  (90 kmh)",
+"Speed Limit  (75 kmh)" ]  # class names
+
+
+

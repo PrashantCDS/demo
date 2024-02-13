@@ -1,0 +1,17 @@
+Zebra Crossing
+Deer Crossing Signs
+Yeild Sign
+Watch out for car
+Uturn Sign
+Traffic Signal Ahead Signs
+Stop sign
+speed Limit (80 kmh)
+Speed Limit (70 kmh)
+Speed Limit (60 kmh)
+Speed Limit (50 kmh)
+Speed Limit (5 kmh)
+Speed Limit (40 kmh)
+Speed Limit (30 kmh)
+Speed Limit (15 kmh)
+Speed Limit  (90 kmh)
+Speed Limit  (75 kmh)
